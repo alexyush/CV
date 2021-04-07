@@ -50,30 +50,30 @@ Telegram: @alexyush
     * HTML, JavaScript, CSS, PHP, Bitrix framework, Bitrix CMS
 
 ### Web developer, IdeaWebLab, aug 2015 - jun 2016
-#### Website for sales company [http://ulisskom.by](ulisskom.by)
+#### Website for sales company [ulisskom.by](http://ulisskom.by)
 * Development of the site with company products
 * HTML, JavaScript, CSS, PHP with YII 1.1 framework, SQL
 
-#### Website for manufacturing company [http://grizzly-hunter.by](grizzly-hunter.by)
+#### Website for manufacturing company [grizzly-hunter.by](http://grizzly-hunter.by)
 * Development of the site with company products.
 * HTML, JavaScript, CSS, PHP with YII 1.1 framework, SQL
 
-#### Site for wedding company [http://loveavto.by/](loveavto.by/)
+#### Site for wedding company [loveavto.by/](http://loveavto.by/)
 * Development and supporting company site
 * HTML, JavaScript, CSS, PHP with YII 1.1 framework, SQL
 
-#### Landing page for sawmill company [http://raspil-doma.by/](raspil-doma.by)
+#### Landing page for sawmill company [raspil-doma.by/](http://raspil-doma.by)
 * Development of the landing page site with company services
 * HTML, JavaScript, CSS, PHP
  
-#### Website for manufacturing company [http://oknolit-belarus.by](oknolit-belarus.by)
+#### Website for manufacturing company [oknolit-belarus.by](http://oknolit-belarus.by)
 * Development of the landing page site with company products
 * HTML, JavaScript, CSS, PHP
 
-#### Website for manufacturing company [http://mnk.by](mnk.by)
+#### Website for manufacturing company [mnk.by](http://mnk.by)
 * Development of the site with company products
 * HTML, JavaScript, CSS, PHP
 
-#### Website for sales company [http://mnkamin.by](mnkamin.by)
+#### Website for sales company [mnkamin.by](http://mnkamin.by)
 * Development of the site with company products.
 * HTML, JavaScript, CSS, PHP with YII 1.1 framework, SQL
