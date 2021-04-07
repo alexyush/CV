@@ -1,6 +1,7 @@
 ## Personal data
 Name: Alexey Yushkevich\
-Date of Birth: 16.01.1993
+Date of Birth: 16.01.1993\
+Telegram: @alexyush
 ## Education
 *	Specialist in Automated control systems in Belarusian-Russian University, Mogilev
 ## Professional review
@@ -49,30 +50,30 @@ Date of Birth: 16.01.1993
     * HTML, JavaScript, CSS, PHP, Bitrix framework, Bitrix CMS
 
 ### Web developer, IdeaWebLab, aug 2015 - jun 2016
-#### Website for sales company http://ulisskom.by
+#### Website for sales company [http://ulisskom.by](ulisskom.by)
 * Development of the site with company products
 * HTML, JavaScript, CSS, PHP with YII 1.1 framework, SQL
 
-#### Website for manufacturing company http://grizzly-hunter.by
+#### Website for manufacturing company [http://grizzly-hunter.by](grizzly-hunter.by)
 * Development of the site with company products.
 * HTML, JavaScript, CSS, PHP with YII 1.1 framework, SQL
 
-#### Site for wedding company http://loveavto.by/
+#### Site for wedding company [http://loveavto.by/](loveavto.by/)
 * Development and supporting company site
 * HTML, JavaScript, CSS, PHP with YII 1.1 framework, SQL
 
-#### Landing page for sawmill company http://raspil-doma.by/
+#### Landing page for sawmill company [http://raspil-doma.by/](raspil-doma.by)
 * Development of the landing page site with company services
 * HTML, JavaScript, CSS, PHP
  
-#### Website for manufacturing company http://oknolit-belarus.by
+#### Website for manufacturing company [http://oknolit-belarus.by](oknolit-belarus.by)
 * Development of the landing page site with company products
 * HTML, JavaScript, CSS, PHP
 
-#### Website for manufacturing company http://mnk.by
+#### Website for manufacturing company [http://mnk.by](mnk.by)
 * Development of the site with company products
 * HTML, JavaScript, CSS, PHP
 
-#### Website for sales company http://mnkamin.by
+#### Website for sales company [http://mnkamin.by](mnkamin.by)
 * Development of the site with company products.
 * HTML, JavaScript, CSS, PHP with YII 1.1 framework, SQL
