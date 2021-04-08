@@ -29,11 +29,13 @@ Telegram: @alexyush
     * Development of the complex UI components for CRUD operations, creating filter panels, providing report generating with complex charts and design, charts, development API on Node.js with processing and queries
 * Tools
     * Angular, JavaScript, AmCharts, Pdfmake, Node.js, Express, SQL, PhPStorm, SVN
+
 #### Angular web application for clients who wants to configure remote protection for own network
 * Tasks
     * Development of the UI components. Using Angular framework to create a Single Page Application (SPA).
 * Tools
     * Angular, JavaScript, HTML, CSS, PhpStorm, GIT
+
 #### Corporate websites
 * Tasks
     * Development of the site template using bootstrap framework, integrate on Joomla CMS.
