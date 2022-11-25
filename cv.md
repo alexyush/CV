@@ -4,25 +4,48 @@ Date of Birth: 16.01.1993
 ## Education
 *	Specialist in Automated control systems in Belarusian-Russian University, Mogilev
 ## Professional review
-*	Front-end developer with 5 years of professional experience.
-* Experience of building web applications using a different technologies including server/client side development.
-*	Experience in deployment and supporting applications in production on Linux.
-*	Write clean, modern, reusable code.
-*	English at an intermediate level.
+*	Full life cycle of application development
+*	Knowledge and practice with modern UI frameworks
+*	Experience of building web applications using a different technologies including server/client side development
+*	Experience in deployment and supporting applications in production
+*	Experience working under Agile methodologies
+*	Good communication skills
 
 ## Skills
-#### *Programming Languages:* JavaScript, TypeScript, SQL, PHP
-#### *Web Technologies:* JavaScript, Angular, JQuery, HTML, AJAX, Node.js, Express, PHP
-#### *Databases*: SQL (Experienced in building and optimization SQL queries, stored     procedures, views and triggers)
+#### *Programming Languages:* JavaScript, SQL, PHP
+#### *Web Technologies:* React, Angular Client, Apollo, HTML, CSS, Node.js, ExpressJs, Apollo Server
+#### *Databases*: SQL (Experienced in building and optimization SQL queries, stored procedures, views and triggers)
 #### *Other Skills:*
-*	Solid knowledge JavaScript, Typescript, Node.js, PHP.
-*	Knowledge of Angular framework
 *	Knowledge and practice with modern UI frameworks.
 *	Good knowledge to CSS Pre-Processors (SASS)
-*	Knowledge of Git and SVN control systems
+*	Knowledge of Git
+*	Experience in configuring of AWS instances
+*	Expirience in configuring of CI/CD
 
 ## Experience
-### Front/back-end developer, Cybonet, december 2017 – till now
+### Software engineer, ITechArt, may 2021 – till now
+#### Trading Platform. The WEB app as a POC for trading platform for trading and donating with all kinds of cryptos and currencies on the basis of 2 entities.
+* Achievements
+    * Launched the project from the scratch as part of the team
+    * Developed dynamic user interfaces and business logic from scratch
+    * Created custom animation effects with "react-spring" library
+    * Participated in project team meetings and communicated with the customers
+    * Assisted in writing technical approach and created technical documentation
+* Tools
+    * ReactJS, GatsbyJS, i18next, react-spring, HTML5, SCSS
+#### Fitness App. The fitness app over third party application for more convenient using services provided by the network of the fitness centers. The app provides information about classes schedule, program sessions, club locations and other services. Sign up the fitness class or program session, book the swim lane or court are provided actions for members of the clubs
+* Achievements
+   *	Investigated business requirements
+   *	Improved application stability due to interaction with third party application
+   *	Improved UX/UI flow of the payment operations
+   *	Implemented generation of the advanced pdf billing statement
+   *	Implemented and fixed UI features
+   *	Improved and fixed different API endpoints
+* Tools
+    * React, GraphQL, MongoDB, Sequalize ORM, ClubAutomation API, Bitbucket
+
+## Experience
+### Front/back-end developer, Cybonet, december 2017 – may 2021
 #### Angular web application for configuring server-based application which collect network state, hosts state data. Representaion application statistics and data
 * Tasks
     * Development of the complex UI components for CRUD operations, creating filter panels, providing report generating with complex charts and design, charts, development API on Node.js with processing and queries
