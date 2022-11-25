@@ -36,11 +36,10 @@ Date of Birth: 16.01.1993
 #### Fitness App. The fitness app over third party application for more convenient using services provided by the network of the fitness centers. The app provides information about classes schedule, program sessions, club locations and other services. Sign up the fitness class or program session, book the swim lane or court are provided actions for members of the clubs
 * Achievements
    *	Investigated business requirements
+   *	Implemented new UI features
+   *	Improved and fixed different API endpoints
    *	Improved application stability due to interaction with third party application
    *	Improved UX/UI flow of the payment operations
-   *	Implemented generation of the advanced pdf billing statement
-   *	Implemented and fixed UI features
-   *	Improved and fixed different API endpoints
 * Tools
     * ReactJS, Apollo, Express.js, MongoDB, SequalizeORM, ClubAutomation API, Bitbucket
 
