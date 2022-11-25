@@ -14,7 +14,7 @@ Date of Birth: 16.01.1993
 ## Skills
 #### *Programming Languages:* JavaScript, SQL, PHP
 #### *Web Technologies:* React, Angular, Apollo Client, HTML, CSS, Node.js, ExpressJs, Apollo Server, Sequalize ORM
-#### *Databases*: SQL (Experienced in building and optimization SQL queries, stored procedures, views and triggers), Expirience in Mongo
+#### *Databases*: SQL (Experienced in building and optimization SQL queries, stored procedures, views and triggers), Experience in Mongo
 #### *Other Skills:*
 *	Knowledge and practice with modern UI frameworks.
 *	Good knowledge to CSS Pre-Processors (SASS)
