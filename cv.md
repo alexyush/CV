@@ -13,8 +13,8 @@ Date of Birth: 16.01.1993
 
 ## Skills
 #### *Programming Languages:* JavaScript, SQL, PHP
-#### *Web Technologies:* React, Angular Client, Apollo, HTML, CSS, Node.js, ExpressJs, Apollo Server
-#### *Databases*: SQL (Experienced in building and optimization SQL queries, stored procedures, views and triggers)
+#### *Web Technologies:* React, Angular, Apollo Client, HTML, CSS, Node.js, ExpressJs, Apollo Server, Sequalize ORM
+#### *Databases*: SQL (Experienced in building and optimization SQL queries, stored procedures, views and triggers), Expirience in Mongo
 #### *Other Skills:*
 *	Knowledge and practice with modern UI frameworks.
 *	Good knowledge to CSS Pre-Processors (SASS)
@@ -42,7 +42,7 @@ Date of Birth: 16.01.1993
    *	Implemented and fixed UI features
    *	Improved and fixed different API endpoints
 * Tools
-    * React, GraphQL, MongoDB, Sequalize ORM, ClubAutomation API, Bitbucket
+    * ReactJS, Apollo, Express.js, MongoDB, SequalizeORM, ClubAutomation API, Bitbucket
 
 ## Experience
 ### Front/back-end developer, Cybonet, december 2017 – may 2021
@@ -71,31 +71,8 @@ Date of Birth: 16.01.1993
 * Tools
     * HTML, JavaScript, CSS, PHP, Bitrix framework, Bitrix CMS
 
-### Web developer, IdeaWebLab, aug 2015 - jun 2016
-#### Website for sales company http://ulisskom.by
-* Development of the site with company products
-* HTML, JavaScript, CSS, PHP with YII 1.1 framework, SQL
-
-#### Website for manufacturing company http://grizzly-hunter.by
-* Development of the site with company products.
-* HTML, JavaScript, CSS, PHP with YII 1.1 framework, SQL
-
-#### Site for wedding company http://loveavto.by/
-* Development and supporting company site
-* HTML, JavaScript, CSS, PHP with YII 1.1 framework, SQL
-
-#### Landing page for sawmill company http://raspil-doma.by/
-* Development of the landing page site with company services
-* HTML, JavaScript, CSS, PHP
- 
-#### Website for manufacturing company http://oknolit-belarus.by
-* Development of the landing page site with company products
-* HTML, JavaScript, CSS, PHP
-
-#### Website for manufacturing company http://mnk.by
-* Development of the site with company products
-* HTML, JavaScript, CSS, PHP
-
-#### Website for sales company http://mnkamin.by
-* Development of the site with company products.
-* HTML, JavaScript, CSS, PHP with YII 1.1 framework, SQL
+### Web developer, IdeaWebLab, aug 2015 - june 2016
+* Tasks
+    * Development custom php sites
+* Tools
+    * HTML, JavaScript, CSS, PHP, Yii, Custom developed CMS
