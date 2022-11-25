@@ -24,7 +24,7 @@ Date of Birth: 16.01.1993
 
 ## Experience
 ### Software engineer, ITechArt, may 2021 – till now
-#### Trading Platform. The WEB app as a POC for trading platform for trading and donating with all kinds of cryptos and currencies on the basis of 2 entities.
+#### Trading Platform. The WEB App as a POC for trading platform with all kinds of cryptos and currencies on the basis of 2 entities.
 * Achievements
     * Launched the project from the scratch as part of the team
     * Developed dynamic user interfaces and business logic from scratch
